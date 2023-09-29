@@ -87,8 +87,8 @@ def logo():
   __/ |\033[0;37;41m[WVS v 0.1 Special ReverseIp]\033[0;40m
  |___/                                                          
 
-    \033[0;37;41m[ Coded by M4L1KL8590X ]
-    \033[0;37;41m[ICQ:https://icq.im/greatzcode]
+    \033[0;37;41m[ Coded by xghost123 ]
+    \033[0;37;41m[ICQ:https://icq.im/xghost123]
     \033[0;37;41m[Not responsible for any illegal usage of this tool.]
     \033[0;37;41m[Published by t.me/wolfshopn]
 """
